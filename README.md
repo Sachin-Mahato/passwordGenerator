@@ -36,7 +36,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [GitHub Pages](https://wesleyjacoby.github.io/Password-Generator/)
+- Live Site URL: [GitHub Pages](https://sachinkumarmahato.github.io/passwordGenerator/)
 
 ## My process
 
