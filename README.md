@@ -36,7 +36,6 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [GitHub](https://github.com/wesleyjacoby/Password-Generator)
 - Live Site URL: [GitHub Pages](https://wesleyjacoby.github.io/Password-Generator/)
 
 ## My process
