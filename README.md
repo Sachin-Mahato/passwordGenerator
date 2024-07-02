@@ -103,4 +103,4 @@ There's just too many to list here. I spent an entire day trying to style that s
 
 ## Author
 
-- Frontend Mentor - [@wesleyjacoby](https://www.frontendmentor.io/profile/yourusewesleyjacobyrname)
+- Sachin
